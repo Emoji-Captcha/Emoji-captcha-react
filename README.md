@@ -1,5 +1,7 @@
 # Emoji Captcha react client library
 
+Easily integrate emoji captcha in your react apps
+
 ![emoji captcha demo](https://user-images.githubusercontent.com/23727670/153011705-020be005-a1ab-4d1c-9ec3-4c6ed9def762.gif)
 
 ## React Client Installation
