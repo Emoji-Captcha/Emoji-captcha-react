@@ -2,7 +2,7 @@
   "name": "@emoji-captcha/react",
   "private": false,
   "repository": "github:Emoji-Captcha/Emoji-captcha-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/index.js",
   "module": "./src/index.tsx",
   "files": [
